@@ -1,0 +1,1 @@
+Ideally, when I finish the surface analysis notebook, the temperatures should line up with that seen in the ERA5 reanalysis. The 2011 Super Outbreak will likely be better represented on finer grid scales and shorter time resolutions, as tornados are short events. Much more work needs to be done to get a full understanding of the event and other data sources will be introduced.

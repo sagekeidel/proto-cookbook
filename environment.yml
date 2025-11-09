@@ -5,3 +5,14 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - xarray
+  - pandas
+  - numpy
+  - datetime
+  - metpy.units
+  - metpy.calc
+  - cartopy.crs
+  - cartopy.feature
+  - matplotlib.pyplot
+  - metpy.plots
+  - metpy.plots.wx_symbols

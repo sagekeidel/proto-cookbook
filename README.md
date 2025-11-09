@@ -6,15 +6,15 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers analysis of the 2011 Super Outbreak.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+This cookbook will 
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+[Sage Keidel](https://github.com/sagekeidel)
 
 ### Contributors
 
@@ -24,15 +24,11 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This cookbook is broken up into 1 main sections, titled Example workflows.
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Example workflows
 
-(Add content for this section, e.g., "The foundational content includes ... ")
-
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
-
-(Add content for this section, e.g., "Example workflows include ... ")
+Example workflows include using ERA5 data to construct a reanalysis and creating surface plots for the event.
 
 ## Running the Notebooks
 
