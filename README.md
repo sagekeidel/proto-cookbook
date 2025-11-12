@@ -10,17 +10,11 @@ This Project Pythia Cookbook covers analysis of the 2011 Super Outbreak.
 
 ## Motivation
 
-This cookbook will 
+This cookbook will go examine the differences between ERA5 reanalysis and ASOS stations for the 2011 Super Outbreak. This project is motivated to further understand the dynamics and reproducability through different data sources for such an impactful event. {cite:t}`Lyza2022`
 
 ## Authors
 
 [Sage Keidel](https://github.com/sagekeidel)
-
-### Contributors
-
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
-</a>
 
 ## Structure
 
